@@ -1,0 +1,1 @@
+function hello(l){console.log("Hello world, "+l)}hello("KEE");console.log("LSK");
